@@ -1,0 +1,84 @@
+[33mcommit 21d0d3eb2f3234f8e97510e007e8f9b97736447f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 48ef075 b2659f8
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 23:13:33 2024 +0300
+
+    Merge remote-tracking branch 'origin/dev2'
+
+[33mcommit b2659f8013d88a30b2f98e5faada719bc7ddba95[m[33m ([m[1;31morigin/dev2[m[33m)[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 23:01:05 2024 +0300
+
+    commit2
+
+[33mcommit 48ef0759fd8649f78495e1e07879be8976992327[m[33m ([m[1;31morigin/dev3[m[33m)[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:59:53 2024 +0300
+
+    commit1
+
+[33mcommit da7a9d7266b9d6d69ec45ff418dad383e6bd5bbc[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:50:46 2024 +0300
+
+    + if u want to cry
+
+[33mcommit 240cd43607496f2b9c20cb3c6736f0ee81a05943[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:46:16 2024 +0300
+
+    new commit
+
+[33mcommit 1dd7c24ab322cffb032712146568c3fe23096be6[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:29:03 2024 +0300
+
+    + fix new_file_1.py
+
+[33mcommit 56b63bf4429a5aef3255bb867a6d5ef488c8db46[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:28:20 2024 +0300
+
+    + new_file_1.py
+
+[33mcommit 35d4a74d276b781d35426c966fda74ad06a136ba[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:23:11 2024 +0300
+
+    + fixed comment new_file.py
+
+[33mcommit 80a3db33c32046e44ba23a6ba9fc1cc758fdb1d5[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:14:39 2024 +0300
+
+    + main.py
+
+[33mcommit b936b5e227758c95caa29e413d6b54e9a9fedf4c[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:11:27 2024 +0300
+
+    +update prog_rom.c
+
+[33mcommit a092c1a9f1de9b9666abc7d9710fb55954cac5fe[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:05:28 2024 +0300
+
+    +fix __init__.py
+
+[33mcommit a6bfd1f2c6991e864d352478c0e57b64a504b814[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 22:01:44 2024 +0300
+
+    init commit
+
+[33mcommit 63b388dd7e392b92cdcec00b7b9b5b4e5abf47ea[m
+Author: Ilya Savenkov <96959440+souStypit@users.noreply.github.com>
+Date:   Wed Nov 20 21:55:46 2024 +0300
+
+    Delete person1 directory
+
+[33mcommit ad83d31409f677ec175545ca32464a68d94a325c[m
+Author: Ilya <s4venkov1lya@gmail.com>
+Date:   Wed Nov 20 21:45:55 2024 +0300
+
+    init commit
